@@ -1,0 +1,35 @@
+body{
+  background:white;
+  max-width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.App {
+  text-align: center;
+}
+
+.App-header {
+  border: 4px solid black;;
+}
+.App-title {
+  font-size: 2em;
+  color: black;
+}
+.TabIndicator {
+  color:grey !important;
+  background-color:	 #f2f2f2 !important;
+  border: 1px solid grey;
+  
+}
+
+.MuiTabs-indicator{
+  background-color: #3f51b5 !important;
+}
+.tab-container {
+  margin: 1em;
+  border: 1px solid grey;
+}
+
+.SearchDropdown {
+width: 100px !important;
+}
